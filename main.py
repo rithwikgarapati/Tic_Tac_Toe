@@ -6,8 +6,9 @@ Make a 3 * 3 array which contains arrays in them.
 Ask for user input from both players
 check if the user input is right
 assign X and O to the correct values.
-see what are correct answers
+Check if there are any rows, columns or diagonals with same input.
 show the results.
+
 '''
 
 # Making a 3 * 3 board array
